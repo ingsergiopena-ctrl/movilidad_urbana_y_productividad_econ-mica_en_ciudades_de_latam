@@ -42,7 +42,8 @@ Crear un dataset limpio y unificado que permita:
 │   └── processed/
 │       └── mobility_economy_unified.csv  # Dataset final limpio y unificado
 └── output/
-    └── analysis_results.ladb_mobility_economy_2024_clean             # Visualizaciones y reportes
+    └──ladb_mobility_economy_2024_clean.csv
+        # Visualizaciones y reportes
 ```
 
 ---
